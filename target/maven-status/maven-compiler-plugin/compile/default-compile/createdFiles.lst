@@ -1,0 +1,5 @@
+com\ondemanddeals\data\OwnerDetails.class
+com\ondemanddeals\data\ShopLocation.class
+com\ondemanddeals\service\RegisterDealerService.class
+com\ondemanddeals\data\ShopDetails.class
+com\ondemanddeals\data\Request.class
